@@ -1,0 +1,24 @@
+{
+  "rss": [
+    {
+      "name": "Qiita",
+      "url": "http://qiita.com/popular-items/feed",
+      "interval": 300
+    },
+    {
+      "name": "はてブ（人気）",
+      "url": "http://feeds.feedburner.com/hatena/b/hotentry",
+      "interval": 300
+    },
+    {
+      "name": "はてブ（テクノロジー）",
+      "url": "http://b.hatena.ne.jp/hotentry/it.rss",
+      "interval": 300
+    },
+    {
+      "name": "ニコ動（kosyu）",
+      "url": "http://b.hatena.ne.jp/kosyu/rss",
+      "interval": 300
+    }
+  ]
+}
